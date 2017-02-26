@@ -1,7 +1,6 @@
-# Übersicht
+# Summary
 
 * [Einleitung](README.md)
-* [First Chapter](chapter1.md)
-
-
+* [Objekte erstellen](chapter1.md)
+* [Das Schiebe-Puzzle](das-schiebe-puzzle.md)
 

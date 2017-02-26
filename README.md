@@ -1,4 +1,6 @@
 # Einleitung
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Hier entsteht ein frei verwendbares Lehr-Programm für die Verwendung von GLOOP im Unterricht.
+
+
 

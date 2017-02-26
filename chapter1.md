@@ -1,4 +1,3 @@
-# 1. Kapitel
-
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+# 1. Kapitel: Objekte erstellen
+Hier wird ein Text mit Bildern entstehen, der die Erzeugung von Objekten in GLOOP erklärt.
 
