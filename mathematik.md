@@ -7,7 +7,8 @@
 | >    |größer als          | alle, bis auf boolean  | `'d'>'b'`  |
 | <    |kleiner als         | alle, bis auf boolean |    `1<2`       |
 | >=   |größer oder gleich  | alle, bis auf boolean  | `b>=e` |
-| <=   |kleiner oder gleich | alle, bis auf boolean |  `banane<=apfel`  | 
+| < =   |kleiner oder gleich | alle, bis auf boolean |  `banane<=apfel`  | 
+
 
 #Die Klasse *Math*
 | Methode   | Beschreibung  |Beispiel |
