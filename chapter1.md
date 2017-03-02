@@ -6,6 +6,7 @@ Für die Arbeit mit diesem Lehrbuch benötigt man einen Java und einen Java-Edit
 
 ## Erzeugung einfacher Objekte in GLOOP
 
+
 ## Manipulation von Objekten 
 
 
