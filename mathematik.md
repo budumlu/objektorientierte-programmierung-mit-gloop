@@ -2,12 +2,12 @@
 
 | Operator            | Beschreibung   | Mögliche Datentypen  |Beispiel |
 | --------------- | -------- | --------- | --------- |
-| ==   |ist gleich          | alle  | `a==true` | 
-| !=   |ist ungleich        | alle     | `4.23!=5.65` | 
-| >    |größer als          | alle, bis auf boolean  | `'d'>'b'`  |
-| <    |kleiner als         | alle, bis auf boolean |    `1<2`       |
-| >=   |größer oder gleich  | alle, bis auf boolean  | `b>=e` |
-| < =   |kleiner oder gleich | alle, bis auf boolean |  `banane<=apfel`  | 
+| `==`   |ist gleich          | alle  | `a==true` | 
+| `!=`   |ist ungleich        | alle     | `4.23!=5.65` | 
+| `>`    |größer als          | alle, bis auf boolean  | `'d'>'b'`  |
+| `<`    |kleiner als         | alle, bis auf boolean |    `1<2`       |
+| `>=`   |größer oder gleich  | alle, bis auf boolean  | `b>=e` |
+| `<=`   |kleiner oder gleich | alle, bis auf boolean |  `banane<=apfel`  | 
 
 
 #Die Klasse *Math*
