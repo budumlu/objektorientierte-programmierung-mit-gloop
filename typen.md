@@ -15,7 +15,7 @@ In Java ***eingebaute*** Datentypen:
 | byte   |8 bit          | -128 ... 127  | `0`  |
 | short   |16 bit         | -32.768 ... 32.767 |    `0`       |
 | int  |32 bit  | -2.147.483.648 ... 2.147.483.647  | `0` |
-| long   |64 bit         | $-2^{63}$ bis $2^{63}-1$, ab Java 8 auch 0 bis $2^{64} -1$ |    `0L`       |
+| long   |64 bit         | $$-2^{63}$$ bis $$2^{63}-1$$, ab Java 8 auch 0 bis $$2^{64} -1$$ |    `0L`       |
 | float  |32 bit  | +/-1,4E-45 ... +/-3,4E+38  | `0.0f` |
 | double  |64 bit  | +/-4,9E-324 ... +/-1,7E+308  | `0.0d` |
 
