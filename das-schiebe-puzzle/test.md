@@ -20,4 +20,5 @@ Da es in unserer verwendeten Programmierwelt 3 Dimensionen gibt musst Du auch hi
  **2. Aufgabe**:  Führe zunächst maximal 5 Anweisungen auf das gelöste Puzzle durch und notiere Dir die Anweisungen. Dein Partner versucht das so verschobene Puzzle zu lösen und notiert seine Anweisungen. Vergleicht eure notierten Anweisungen. Was stellt ihr fest?
 
  **3. Aufgabe**:  Entwickle anhand des echten Schiebepuzzles oder des Papier-Schiebepuzzles eine allgemeine Lösungsstrategie für Schiebepuzzle und notiere diese.
+ 
  **4. Aufgabe**:  Gibt es eine Möglichkeit das Schiebe-Puzzle so zu legen, dass es nicht lösbar ist? Stelle eine Vermutung an, probiere es aus und recherchiere dazu im Internet.
