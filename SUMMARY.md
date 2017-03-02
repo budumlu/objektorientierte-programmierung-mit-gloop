@@ -13,5 +13,6 @@
 
 * [Kommentare](kommentare.md)
 * [ASCII-Code-Tabelle](ascii-code-tabelle.md)
+* [Mathematik](mathematik.md)
 * [Typen](typen.md)
 
