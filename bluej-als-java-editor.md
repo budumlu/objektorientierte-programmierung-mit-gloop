@@ -1,5 +1,4 @@
-#
-1. Kapitel: BlueJ und die Direkteingabe
+# 1. Kapitel: BlueJ und die Direkteingabe
 
 
 BlueJ und die Direkteingabe
