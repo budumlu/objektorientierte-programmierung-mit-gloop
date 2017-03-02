@@ -3,9 +3,11 @@
 ## GLOOP-Lehrgang
 
 * [Einleitung](README.md)
+* Grundlagen
+  * [BlueJ als Java-Editor](bluej-als-java-editor.md)
 * [Das Schiebe-Puzzle](das-schiebe-puzzle.md)
-  * [Test](das-schiebe-puzzle/test.md)
-* [Objekte erstellen](chapter1.md)
+  * [Unplugged](das-schiebe-puzzle/test.md)
+  * Direkteingabe
 
 ## Java Grundlagen
 
