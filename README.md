@@ -8,8 +8,8 @@ Dieses digitale Lehrbuch ist in der Markdown-Syntax verfasst und kann daher leic
 
 
 [^1]: [http://www.schulentwicklung.nrw.de/cms/programmierung-mit-gloop/oop-mit-gloop/programmierung.html](http://www.schulentwicklung.nrw.de/cms/programmierung-mit-gloop/oop-mit-gloop/programmierung.html)
-[^2]: [](https://yhatt.github.io/marp/)
-[^3]: [](http://pandoc.org)
-[^4]: [](http://www.sumo.uni-hamburg.de/DigitaleSkripte/)
+[^2]: [https://yhatt.github.io/marp/](https://yhatt.github.io/marp/)
+[^3]: [http://pandoc.org](http://pandoc.org)
+[^4]: [http://www.sumo.uni-hamburg.de/DigitaleSkripte/](http://www.sumo.uni-hamburg.de/DigitaleSkripte/)
 
 
