@@ -1,16 +1,15 @@
 # Summary
 
-## Einleitung
-
-* [Einleitung](README.md)
-
 ## GLOOP-Lehrgang
 
+* [Einleitung](README.md)
 * [Das Schiebe-Puzzle](das-schiebe-puzzle.md)
+  * [Test](das-schiebe-puzzle/test.md)
 * [Objekte erstellen](chapter1.md)
 
 ## Java Grundlagen
 
-* [Java Grundlagen](java-grundlagen.md)
-* Kommentare
+* [Kommentare](kommentare.md)
+* [ASCII-Code-Tabelle](ascii-code-tabelle.md)
+* [Typen](typen.md)
 
