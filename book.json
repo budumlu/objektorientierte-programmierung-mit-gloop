@@ -1,6 +1,3 @@
 {
-    "gitbook": ">1.x.x",
-    "plugins": [
-        "exercises"
-    ]
+    "plugins": ["exercises"]
 }
