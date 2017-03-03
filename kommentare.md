@@ -25,24 +25,26 @@ int a = pA;
 
 ---
 
+{% exercise %}
 Markiere den Inhalt als Kommentar
 
-```js
-
+{% initial %}
 Markiere mich als Kommentar!
 Ansonsten wird ein Error ausgeworfen!
 
-```
-
-```js
+{% solution %}
 /*
 Markiere mich als Kommentar!
 Ansonsten wird ein Error ausgeworfen!
 */
-```
 
-```js
+{% validation %}
 assert(true);
-```
+
+
+{% endexercise %}
+
+
+
 
 ---
