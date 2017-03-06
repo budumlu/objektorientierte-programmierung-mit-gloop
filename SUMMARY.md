@@ -5,6 +5,7 @@
 * [Einleitung](README.md)
 * [Grundlagen](grundlagen.md)
   * [BlueJ als Java-Editor](bluej-als-java-editor.md)
+  * [Klassen- und Methodenübersicht von GLOOP](klassen-und-methodenubersicht-von-gloop.md)
 * [Das Schiebe-Puzzle](das-schiebe-puzzle.md)
   * [Unplugged](das-schiebe-puzzle/test.md)
   * [Direkteingabe](das-schiebe-puzzle/direkteingabe.md)
