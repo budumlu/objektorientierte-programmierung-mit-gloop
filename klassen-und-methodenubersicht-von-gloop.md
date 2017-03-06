@@ -82,9 +82,6 @@ void setzeFarbe(double pR, double pG, double pB)
 
 ```
 
-
-
-
 ##Tastatur- und Mauseingaben
 
 ```java
