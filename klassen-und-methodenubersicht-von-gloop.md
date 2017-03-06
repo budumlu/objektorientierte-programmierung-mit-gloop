@@ -10,7 +10,7 @@ import GLOOP.*;
 ```
 
 ## Kameraklassen
-Um einen Blick in die GLOOP-Welt zu ermöglichen muss eine Kamera erzeugt und instanziiert werden. Im Beispiel wird eine Kamera mit einem Sichtfeld von 800 mal 600 Pixeln erzeugt und ihre Position auf die Werte x=0, y=300 und z=500 verändert.
+Um einen Blick in die GLOOP-Welt zu ermöglichen muss eine Kamera erzeugt und instanziiert werden. Im Beispiel wird eine Kamera mit einem Sichtfeld von 800 mal 600 Pixeln erzeugt und mit der Methode `setzePosition`ihre Position auf die Werte x=0, y=300 und z=500 verändert.
 ```java
 kamera = new GLKamera(800,600);     
 kamera.setzePosition(0,300,500);
@@ -20,6 +20,7 @@ Im nächsten Beispiel sind Kameras, deren Blickwinkel mit der Maus verändert we
  ```java
 kamera = GLEntwicklerkamera(); //Im Vollbildmodus.
 kamera.setzeStereomodus(true); //Für Streoskop-Brillen
+kamera.zeigeAchsen(true); //Blendet die Koordinatenachsen im Kamerabild ein. Dies hilft häufig bei der Orientierung im Raum.
   
  ``` 
 
@@ -45,21 +46,43 @@ ring = new GLTorus(-280,70,0, 120,10);
 
 ```
 Für das Schiebepuzzel haben Sie bereits Tafelobjekte eingesetzt. Sie sind aber auch gut geeignet, um eine Spielanleitung einem Spieler zur Verfügung zu stellen.
+
 ```java
 tafel = new GLTafel(0,100,300,200,15);
 tafel.setzeText("Triff das Ziel!!!",10); //Schriftgröße 10
         
-        ``
+```
 
-# Manipulieren von GLOOP-Objekten
-
-
-## Bewegen
+# Manipulieren mit GLOOP-Methoden
+GLOOP-Objekte können verschoben werden, man kann ihre Farbe verändern oder ihre Größe manipulieren. Um Objekte zu manipulieren benötigt man Methoden, mit denen man auf die Attribute der Objekte verändern kann.
 
 
+## Bewegen und Färben
+
+```java
+
+//Dreht das Objekt um durch den Mittelpunkt des Objektes gehende Parallelen der Koordinatenachsen.
+void drehe(double pWX, double pWY, double pWZ)
+//Dreht das Objekt um durch den Punkt (pX,pY,pZ) gehende Parallelen der Koordinatenachsen.
+void drehe(double pWX, double pWY, double pWZ, double pX, double pY, double pZ)  
+
+//Liefert die entsprechende Koordinate des Mittelpunktes des Objekts.
+double gibX()double gibY()double gibZ()
+
+//Setzt das Objekt an die angegebene Position.
+void setzePosition(double pX, double pY, double pZ)
+
+//Das Objekt kann durch angabe von drei Werten entlang der x-,y- und z-Achse verschoben werden.
+void verschiebe(double pX, double pY, double pZ)
+
+//Texturen werden häufig verwendet, um Objekt ansprechender zu gestalten. Die jpg- oder png-Datei muss im Projektordner liegen. void setzeTextur(String pDateiname)
+
+//Färbt das Objekt ein. pR = Rotanteil, pG = Grünanteil, pB = Blauanteil
+void setzeFarbe(double pR, double pG, double pB)
+
+```
 
 
-## Texturen setzen
 
 
 ##Tastatur- und Mauseingaben
