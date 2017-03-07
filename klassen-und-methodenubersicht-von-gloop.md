@@ -1,7 +1,7 @@
 # GLOOP-Objekte
 Im Folgenden wird eine kurze Übersicht über die Grundlagen der Verwendung von GLOOP-Objekten und GLOOP-Methoden gegeben.
 
-Eine vollständige Üersicht finden Sie [hier](http://www.schulentwicklung.nrw.de/cms/upload/gloop/dokumentation/Komplettuebersicht_GLOOP_3.7.pdf "Komplettuebersicht_GLOOP_3.7") verlinkt.
+Eine vollständige Üersicht ist [hier](http://www.schulentwicklung.nrw.de/cms/upload/gloop/dokumentation/Komplettuebersicht_GLOOP_3.7.pdf "Komplettuebersicht_GLOOP_3.7") verlinkt.
 
 ##Einbindung der GLOOP-Bbliothek
 Um GLOOP-Objekte erzeugen zu können, müssen die GLOOP-Bibliotheken importiert werden.
