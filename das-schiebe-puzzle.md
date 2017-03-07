@@ -1,4 +1,4 @@
-# 2. Das Schiebepuzzle
+# 2. Das Schiebepuzzle (Teil 1)
 
 In diesem Kapitel erstellen wir mit GLOOP ein Schiebepuzzle. Schiebepuzzle sind gibt es schon sehr lange und in verschiedenen Ausführungen, meist mit 8 oder 15 Puzzleteilen. 
 
