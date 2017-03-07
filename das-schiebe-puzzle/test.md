@@ -18,8 +18,7 @@ Da es in unserer verwendeten Programmierwelt 3 Dimensionen gibt musst Du auch hi
 **1. Aufgabe**:  Notiere die Programmanweisungen, die notwendig sind, um das oben abgebildete Schiebepuzzle zu lösen. Schneide dazu die Puzzleteile auf dem zweiten Arbeitsblatt aus und zeichne ein Koordinatensystem auf ein leeres Blatt.
  
 
- {
-% exercise %}
+{% exercise %}
 Kontrolliere Deinen Lösungsweg:
 
 {% initial %}
