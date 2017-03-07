@@ -6,13 +6,14 @@
 * [Grundlagen](grundlagen.md)
   * [BlueJ als Java-Editor](bluej-als-java-editor.md)
   * [Klassen- und Methodenübersicht von GLOOP](klassen-und-methodenubersicht-von-gloop.md)
-* [Das Schiebe-Puzzle](das-schiebe-puzzle.md)
+  * [Skulpturengarten](skulpturengarten.md)
+* [Das Schiebe-Puzzle Teil 1](das-schiebe-puzzle.md)
   * [Unplugged](das-schiebe-puzzle/test.md)
   * [Direkteingabe](das-schiebe-puzzle/direkteingabe.md)
 * [MakeyMakey-Projekt](makeymakey-projekt.md)
-  * [Test](test.md)
-* Skulpturengarten
-* [test](test.md)
+  * [Aufgabe](test.md)
+* [Das Schiebepuzzel Teil 2](das-schiebepuzzel-teil-2.md)
+  * Das UFO-Spiel
 
 ## Java Grundlagen
 
