@@ -1,7 +1,9 @@
 {
-    "plugins": ["exercises"]
+"plugins": ["youtube"]
 }
 
 {
-    "plugins": ["youtube"]
+    "plugins": ["exercises"]
 }
+
+
