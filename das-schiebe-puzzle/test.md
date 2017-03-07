@@ -19,7 +19,7 @@ Da es in unserer verwendeten Programmierwelt 3 Dimensionen gibt musst Du auch hi
  
 
 {% exercise %}
-Kontrolliere Deinen Lösungsweg:
+Kontrolliere Deinen Lösungsweg, indem Du auf `Solution` klickst:
 
 {% initial %}
 
