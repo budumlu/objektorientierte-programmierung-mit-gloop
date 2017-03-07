@@ -7,5 +7,6 @@
 5. Erstellt ein Plakat auf dem ihr euer Spieledesign präsentiert.
 ---
 
-* https://youtu.be/rfQqh7iCcOU
-* https://youtu.be/5XjZ2MFmYjk
+{% youtube %}
+https://www.youtube.com/watch?v=5XjZ2MFmYjk
+{% endyoutube %}
