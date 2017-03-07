@@ -16,6 +16,7 @@ Da es in unserer verwendeten Programmierwelt 3 Dimensionen gibt musst Du auch hi
 `dasTeil#.verschiebe(x,y,z)`
 
 **1. Aufgabe**:  Notiere die Programmanweisungen, die notwendig sind, um das oben abgebildete Schiebepuzzle zu lösen. Schneide dazu die Puzzleteile auf dem zweiten Arbeitsblatt aus und zeichne ein Koordinatensystem auf ein leeres Blatt.
+assert(true);
  
 
 {% exercise %}
@@ -33,7 +34,7 @@ dasTeil5.verschiebe(0,-50,0);
 dasTeil8.verschiebe(-50,0,0);
 
 {% validation %}
-assert(true);
+assert(equal);
 
 
 {% endexercise %}
