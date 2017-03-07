@@ -23,7 +23,7 @@ assert(true);
 Kontrolliere Deinen Lösungsweg, indem Du auf `Solution` klickst:
 
 {% initial %}
-Hier kann derzeit leider kein Programmcode eingegeben werden, sondern nur durch einen Klick auf Solution die Lösung angezeigt werden.
+Hier kann derzeit leider kein Programmcode eingegeben werden!
 
 {% solution %}
 dasTeil4.verschiebe(0,-50,0);
