@@ -15,10 +15,33 @@ Da es in unserer verwendeten Programmierwelt 3 Dimensionen gibt musst Du auch hi
 - allgemein:
 `dasTeil#.verschiebe(x,y,z)`
 
- **1. Aufgabe**:  Notiere die Programmanweisungen, die notwendig sind, um das oben abgebildete Schiebe-Puzzle zu lösen. Schneide dazu die Puzzleteile auf dem zweiten Arbeitsblatt aus und zeichne ein Koordinatensystem auf ein leeres Blatt.
+**1. Aufgabe**:  Notiere die Programmanweisungen, die notwendig sind, um das oben abgebildete Schiebepuzzle zu lösen. Schneide dazu die Puzzleteile auf dem zweiten Arbeitsblatt aus und zeichne ein Koordinatensystem auf ein leeres Blatt.
+ 
+
+ {
+% exercise %}
+Kontrolliere Deinen Lösungsweg:
+
+{% initial %}
+
+
+{% solution %}
+dasTeil4.verschiebe(0,-50,0);
+dasTeil5.verschiebe(50,0,0);
+dasTeil7.verschiebe(0,50,0);
+dasTeil4.verschiebe(-50,0,0);
+dasTeil5.verschiebe(0,-50,0);
+dasTeil8.verschiebe(-50,0,0);
+
+{% validation %}
+assert(true);
+
+
+{% endexercise %}
+ 
  
  **2. Aufgabe**:  Führe zunächst maximal 5 Anweisungen auf das gelöste Puzzle durch und notiere Dir die Anweisungen. Dein Partner versucht das so verschobene Puzzle zu lösen und notiert seine Anweisungen. Vergleicht eure notierten Anweisungen. Was stellt ihr fest?
 
  **3. Aufgabe**:  Entwickle anhand des echten Schiebepuzzles oder des Papier-Schiebepuzzles eine allgemeine Lösungsstrategie für Schiebepuzzle und notiere diese.
  
- **4. Aufgabe**:  Gibt es eine Möglichkeit das Schiebe-Puzzle so zu legen, dass es nicht lösbar ist? Stelle eine Vermutung an, probiere es aus und recherchiere dazu im Internet.
+ **4. Aufgabe**:  Gibt es eine Möglichkeit das Schiebepuzzle so zu legen, dass es nicht lösbar ist? Stelle eine Vermutung an, probiere es aus und recherchiere dazu im Internet.
