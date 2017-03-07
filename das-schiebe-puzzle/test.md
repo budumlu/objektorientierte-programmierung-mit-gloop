@@ -24,7 +24,7 @@ Kontrolliere Deinen Lösungsweg, indem Du auf `Solution` klickst:
 
 {% initial %}
 Hier darf derzeit leider kein Programmcode eingegeben werden!
-
+Ansonsten kann die Lösung nicht angezeigt werden!
 {% solution %}
 dasTeil4.verschiebe(0,-50,0);
 dasTeil5.verschiebe(50,0,0);
