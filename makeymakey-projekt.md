@@ -9,6 +9,6 @@
 {% youtube %}
 https://www.youtube.com/watch?v=5XjZ2MFmYjk
 {% endyoutube %}
-
-* https://youtu.be/rfQqh7iCcOU
-* https://youtu.be/5XjZ2MFmYjk
+{% youtube %}
+https://youtu.be/rfQqh7iCcOU
+{% endyoutube %}
