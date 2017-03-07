@@ -34,7 +34,7 @@ dasTeil5.verschiebe(0,-50,0);
 dasTeil8.verschiebe(-50,0,0);
 
 {% validation %}
-assert(equal);
+
 
 
 {% endexercise %}
