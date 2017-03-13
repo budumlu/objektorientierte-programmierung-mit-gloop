@@ -16,6 +16,7 @@
   * [Spielideen](test.md)
 * [Das Schiebepuzzle Teil 2](das-schiebepuzzle-teil2.md)
   * [Das UFO-Spiel](das-schiebepuzzle-teil2/das-ufo-spiel.md)
+  * [Kollisionsabfragen](das-schiebepuzzle-teil2/kollisionsabfragen.md)
 
 ## Java Grundlagen
 
