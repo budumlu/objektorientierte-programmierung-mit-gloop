@@ -9,7 +9,7 @@ eine Kamere erzeugt werden,die einen Blick in die *GLOOP-Welt* erlaubt. Um ein b
 
 ![](/assets/Direkteingabe_1.png)
 ## Aufgabe
-Programieren Sie nun, wie in den Screenshots zu sehen, das Schiebepuzzle zu Ende. Mit der `verschiebe`-Methode aus dem Kapitel [Unplugged](Das_Schiebepuzzle_Teil_1/unplugged.md)
+Programmieren Sie nun, wie in den Screenshots zu sehen, das Schiebepuzzle zu Ende. Um die Tafeln auch beschriften zu können, muss darauf geachtet werden, dass die Datei `Zeichen.png` im Projektordner abgespeichert wurde. Mit der `verschiebe`-Methode aus dem Kapitel [Unplugged](/das-schiebepuzzle-teil1/unplugged.md) können die Objekte vomTyp `GLTafel` auch verschoben werden.
 
 ![](/assets/Direkteingabe_2.png)
 
