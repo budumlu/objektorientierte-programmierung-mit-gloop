@@ -1,5 +1,5 @@
 #### Aufgabe:
-##### Designe ein Spiel für den Tag der offenen Tür
+**Designe ein Spiel für den Tag der offenen Tür**
 1. Plant das Spieledesign und die Spielregeln in 4er-Gruppen (Think/Pair/Share).
 2. Bei dem Spiel muss die Tastatur verwendet werden, so dass ein Objekt verschoben wird.
 3. Das Spiel soll für zwei Mannschaften sein.
