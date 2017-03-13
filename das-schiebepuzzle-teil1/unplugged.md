@@ -1,5 +1,4 @@
 # Programme per Hand ausführen
-## Schiebe-Puzzle als Programm
 Du hast gelernt Klassendiagramme zu erstellen. Nun wirst Du lernen Programmanweisungen aufzuschreiben, mit denen Du später Dein erstes echtes Computer-Programm steuern kannst. Unten siehst Du ein Koordinatensystem abgebildet, in dem sich 8 Puzzleteile befinden. Diese Teile lassen sich durch Verschieben in die richtige Reihenfolge bringen (von unten links nach oben rechts aufsteigend) . Dabei lässt sich ein Puzzle-Teil nur in ein leeres Puzzlefeld schieben, wie bei einem echten Schiebepuzzle.
 Da es in unserer verwendeten Programmierwelt 3 Dimensionen gibt musst Du auch hier immer 3 Koordinaten zum Verschieben eines Puzzleteils angeben. Die rote (waagerechte) Achse ist die x-Achse, die grüne (senkrechte) Achse ist die y-Achse. Später gibt es dann noch die blaue Achse als z-Achse. (x- und z-Achse liegen dabei, wie bei allen aktuellen Spiele-Engines, in der Bodenebene.)
 
