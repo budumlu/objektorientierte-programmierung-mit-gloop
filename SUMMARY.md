@@ -13,8 +13,8 @@
 * [Skulpturengarten](skulpturengarten.md)
 * [MakeyMakey-Projekt](makeymakey-projekt.md)
   * [Ballspiele](ballspiele.md)
-  * [Aufgabe](test.md)
-* [Das Schiebepuzzle Teil 2](das-schiebepuzzel-teil-2.md)
+  * [Spielideen](test.md)
+* [Das Schiebepuzzle Teil 2](das-schiebepuzzle-teil2.md)
   * [Das UFO-Spiel](das-schiebepuzzle-teil2/das-ufo-spiel.md)
 
 ## Java Grundlagen
