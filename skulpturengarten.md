@@ -1,0 +1,2 @@
+# Skulpturengarten
+![](/assets/Skulpturengarten.jpg)
