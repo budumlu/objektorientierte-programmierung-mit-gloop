@@ -1,4 +1,2 @@
 # 2. Grundlagen
-In diesem Kapitel lernen Sie den Java-Editor BlueJ kennen. Damit erstellen Sie ihr erstes Java-Programm.
-
-Außerdem lernen Sie die GLOOP-Bibliothek kennen, mit Hilfe derer Sie schnell und kreativ auch eigene Ideen umzusetzen lernen werden.
+In diesem Kapitel werden kurz die in diesem Lehrbuch verwendeten Werkzeuge vorgestellt. Dazu zählt der Java-Editor BlueJ und die GLOOP-Klassen-Bibliothek, mit Hilfe deren Sie schnell und kreativ auch eigene Ideen umzusetzen lernen werden.
