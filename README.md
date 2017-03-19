@@ -1,4 +1,4 @@
-# 1. Einleitung
+# 1.1 Einleitung
 
 Hier entsteht ein frei verwendbares digitales Lehrbuch für die 10.Klasse Informatik in NRW. Alle Inhalte, Bilder und Texte sind unter eine noch zu definierende CC-Lizenz gestellt. Es ist zu beachten, dass verlinkte Inhalte unter andere Lizenzen gestellt sein können.
 
