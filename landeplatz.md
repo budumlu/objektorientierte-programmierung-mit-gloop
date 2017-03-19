@@ -6,18 +6,16 @@ Nachdem im Skulpturengarten Objekte rein statisch waren, d.h. ohne sich selbst z
 
 Der folgende Programm-Code dient Ihnen als Prototyp zur Erstellung eines Hubschrauber-Landeplatzes.
 
-**Aufgaben**
-1. Recherchieren Sie im Internet was eine Java-Array ist.
-2. Recherchieren Sie,wie eine for-Schleife funktioniert und erläutern Sie den Einsatz der for-Schleife im vorliegenden Prototypen.
-3.Die Lichter sollen nun animiert werden. Sie sind entweder aus oder sie leuchten. Programmieren Sie folgende Animationen:
-    * Die Lichter gehen der Reihe nach an (Variante 1) und aus.
-    * Alle Lichter blinken gleichzeitig.
-    * Überlegen Sie sich zusätzlich noch eine eigene Animation.
-    
+**Aufgaben**  
+1. Recherchieren Sie im Internet was eine Java-Array ist \(siehe z.B. [JAVAkompakt](https://lezius.gitbooks.io/javakompakt/content/01-grundlagen/05-felder.html "JAVAkompakt - Felder") ).
+2. Recherchieren Sie,wie eine for-Schleife funktioniert und erläutern Sie den Einsatz der for-Schleife im vorliegenden Prototypen.  
+3. Die Lichter sollen nun animiert werden. Sie sind entweder aus oder sie leuchten. Programmieren Sie folgende Animationen:
 
+* Die Lichter gehen der Reihe nach an \(Variante 1\) und aus.
+* Alle Lichter blinken gleichzeitig.
+* Überlegen Sie sich zusätzlich noch eine eigene Animation der Landeplatzlichter.
 
 ```java
-
 import GLOOP.*;
 class Landeplatzszene{
     GLKamera kamera;
@@ -30,7 +28,7 @@ class Landeplatzszene{
     GLKugel[] lampe;
 
     Landeplatzszene(){
-        kamera  = new GLSchwenkkamera(800,600);
+        kamera  = new GLSchwenkkamera();
         licht   = new GLLicht();
         himmel  = new GLHimmel("Himmel.jpg");
         boden   = new GLBoden("Gras.jpg");
@@ -58,6 +56,7 @@ class Landeplatzszene{
     }
 
 }
-
 ```
+
+
 
