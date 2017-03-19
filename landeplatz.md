@@ -1,8 +1,8 @@
 # Landeplatz
-Nachdem im Skulpturengarten Objekte rein statisch waren, d.h. ohne sich selbst zu verändern oder die Position im Raum zu wechseln, sollen in diesem Projekt drei neue Programmiertechniken eingeführt werden:
+Nachdem im Skulpturengarten Objekte rein statisch waren, d.h. ohne sich selbst zu verändern oder die Position im Raum zu wechseln, sollen in diesem Projekt drei weitere Programmiertechniken verwendet werden:
 
 1. Java-Arrays (Felder)
-2. for-Schleifen
+2. ```for```-Schleifen
 3. Animationen in GLOOP
 
 Der folgende Programm-Code dient Ihnen als Prototyp zur Erstellung eines Hubschrauber-Landeplatzes.

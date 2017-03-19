@@ -1,6 +1,6 @@
 # Summary
 
-## GLOOP-Lehrgang
+## Java-Lehrgang mit GLOOP
 
 * [Einleitung](README.md)
 * [Grundlagen](grundlagen.md)
