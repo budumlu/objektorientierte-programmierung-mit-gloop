@@ -1,6 +1,7 @@
+# Landeplatz
 Nachdem im Skulpturengarten Objekte rein statisch waren, d.h. ohne sich selbst zu verändern oder die Position im Raum zu wechseln, sollen in diesem Projekt drei neue Programmiertechniken eingeführt werden:
 
-1. Java-Arrays
+1. Java-Arrays (Felder)
 2. for-Schleifen
 3. Animationen in GLOOP
 
