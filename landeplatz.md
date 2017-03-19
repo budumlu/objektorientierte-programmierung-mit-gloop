@@ -9,7 +9,7 @@ Der folgende Programm-Code dient Ihnen als Prototyp zur Erstellung eines Hubschr
 
 **Aufgaben**  
 1. Recherchieren Sie im Internet was eine Java-Array ist \(siehe z.B. [https://lezius.gitbooks.io/javakompakt/content/01-grundlagen/05-felder.html](https://lezius.gitbooks.io/javakompakt/content/01-grundlagen/05-felder.html "JAVAkompakt - Felder") ).
-2. Recherchieren Sie, wie eine for-Schleife funktioniert und erläutern Sie den Einsatz der for-Schleife im vorliegenden Prototypen.  
+2. Recherchieren Sie, wie eine for-Schleife funktioniert und erläutern Sie den Einsatz der for-Schleife im vorliegenden Prototypen.  (siehe z.B: [Schleifen](/schleifen.md))
 3. Die Lichter sollen nun animiert werden. Sie sind entweder aus oder sie leuchten. Programmieren Sie folgende Animationen:
     * Die Lichter gehen der Reihe nach an und aus. \(Variante 1\)
     * Alle Lichter blinken gleichzeitig. \(Variante 2\)

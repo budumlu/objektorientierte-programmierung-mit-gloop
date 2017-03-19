@@ -9,7 +9,6 @@
 * [Das Schiebepuzzle Teil 1](das-schiebepuzzle-teil1.md)
   * [Unplugged](das-schiebepuzzle-teil1/unplugged.md)
   * [Direkteingabe](das-schiebepuzzle-teil1/direkteingabe.md)
-  * [Das Array](das-schiebepuzzle-teil1/das-array.md)
 * [Skulpturengarten](skulpturengarten.md)
 * [Landeplatz](landeplatz.md)
 * [MakeyMakey-Projekt](makeymakey-projekt.md)

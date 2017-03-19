@@ -57,6 +57,35 @@ void fuehreAus(){
 
 ---
 
+## ```for(...){}```-Schleife
+
+Der Anweisungsblock wird solange ausgeführt bis die Zählvariable 9 geworden ist.
+
+```java
+for(int i=0;i<10;i=i+1) 
+{
+    Anweisungsblock 
+}
+```
+
+---
+
+##```switch(...){}```-Anweisung
+
+```java
+switch(Ausdruck)
+{
+    case Wert_1: Anweisungsblock_1 
+    break;
+    case Wert_2: Anweisungsblock_2 
+    break; 
+    case Wert_3: Anweisungsblock_3 
+    break;
+    default: AnweisungsblockStandard   
+}
+```
+
+
 
 
 ```
