@@ -23,6 +23,6 @@
 * [ASCII-Code-Tabelle](ascii-code-tabelle.md)
 * [Kommentare](kommentare.md)
 * [Mathematik](mathematik.md)
-* [Schleifen](schleifen.md)
+* [Kontrollstrukturen](schleifen.md)
 * [Typen](typen.md)
 
