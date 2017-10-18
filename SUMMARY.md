@@ -9,6 +9,7 @@
 * [Das Schiebepuzzle Teil 1](das-schiebepuzzle-teil1.md)
   * [Unplugged](das-schiebepuzzle-teil1/unplugged.md)
   * [Direkteingabe](das-schiebepuzzle-teil1/direkteingabe.md)
+  * [3D in der GLOOP-Welt](das-schiebepuzzle-teil1/3d-in-der-gloop-welt.md)
 * [Skulpturengarten](skulpturengarten.md)
 * [Landeplatz](landeplatz.md)
 * [MakeyMakey-Projekt](makeymakey-projekt.md)
