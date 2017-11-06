@@ -1,4 +1,4 @@
-# GLOOP-Objekte
+#GLOOP-Objekte
 Im Folgenden wird eine kurze Übersicht über die Grundlagen der Verwendung von GLOOP-Objekten und GLOOP-Methoden gegeben. Diese Übersicht dient dazu, wichtige Grundlagen von GLOOP schnell nachschlagen zu können. Der eigentliche Lehrgang beginnt im Kapitel [Das Schiebepuzzle Teil 1](/das-schiebepuzzle-teil1.md).
 
 Eine vollständige Übersicht über die Java-Bibliothek **GLOOP** ist [hier](http://www.schulentwicklung.nrw.de/cms/upload/gloop/dokumentation/Komplettuebersicht_GLOOP_3.7.pdf "Komplettuebersicht_GLOOP_3.7") verlinkt.
