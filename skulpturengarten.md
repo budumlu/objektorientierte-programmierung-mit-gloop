@@ -30,7 +30,7 @@ himmel = new GLHimmel("Himmel.jpg");
 ```
 
 **Tipp**
-Verwende für die kreisförmige Anordnung der Objekte [Methoden aus der Grundlagenübersicht](../Grundlagen/klassen-und-methodenubersicht-von-gloop.md#GLOOP-Objekte).
+Verwende für die kreisförmige Anordnung der Objekte [Methoden aus der Grundlagenübersicht](../klassen-und-methodenubersicht-von-gloop.md#GLOOP-Objekte).
 
 
 
