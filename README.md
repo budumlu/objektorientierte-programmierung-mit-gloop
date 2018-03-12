@@ -1,14 +1,31 @@
 # 1. Einleitung
 
-Hier entsteht ein frei verwendbares digitales Lehrbuch für die 10.Klasse Informatik in NRW. Alle Inhalte, Bilder und Texte sind unter eine noch zu definierende CC-Lizenz gestellt. Es ist zu beachten, dass verlinkte Inhalte unter andere Lizenzen gestellt sein können.
+Hier **entsteht** ein frei verwendbares digitales Lehrbuch für die 10.Klasse Informatik in NRW. Alle Inhalte, Bilder und Texte sind unter [CCO-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/deed.de) gestellt. Es ist zu beachten, dass verlinkte Inhalte unter andere Lizenzen gestellt sein können.
 
 Die in diesem Lehrbuch verwendete Java-Bibliothek GLOOP[^1] ist für nicht kommerzielle Zwecke kostenlos verwendbar.
 
 Dieses digitale Lehrbuch ist in der Markdown-Syntax verfasst und kann daher leicht in andere Formate überführt werden. Sollen Teile dieses Lehrbuchs in eine Präsentation übernommen werden, so bietet sich das Open-Source Programm Marp[^2] zur freien Verwendung an. Aber natürlich sind auch viele andere Markdown-Editoren für alle Systeme frei erhältlich. Dieses können den Quelltext, häufig mit Pandoc[^3] ,in andere Formate überführen. Ebenfalls hierfür geeignet ist elearn.js[^4]. Standardmäßig lässt sich dieses Lehrbuch als Pdf-, Mobi- oder ePub-Datei herunterladen.
 
-Der erste Teil dieses Buchs führt durch einen GLOOP-Lehrgang. Dieser ist so konzipiert, dass er im Unterricht wie ein normales Lehrwerk verwendet werden kann, ohne den Unterricht mit Gesprächen, Gruppenarbeitsphasen und Übungsaufgaben vollständig ersetzen zu wollen. Der Lehrgang kann aber einen sinnvollen Rahmen für den Unterricht bieten, und beinhaltet auch interaktive Übungsaufgaben, die so angelegt sein sollen, dass sie der Selbstkontrolle des Lernenden dienen.
+Der erste Teil dieses Buchs führt durch einen GLOOP-Lehrgang. Dieser Teil soll so konzipiert sein, dass er im Unterricht wie ein normales Lehrwerk verwendet werden kann, ohne den Unterricht mit Gesprächen, Gruppenarbeitsphasen und Übungsaufgaben vollständig ersetzen zu wollen. Der Lehrgang kann aber einen sinnvollen Rahmen für den Unterricht bieten, und beinhaltet auch interaktive Übungsaufgaben, die so angelegt sein sollen, dass sie der Selbstkontrolle des Lernenden dienen.
 
 Der zweite Teil ist als eine Art Nachschlagewerk gedacht, der grundlegende Methoden und Konzepte der JAVA-Programmierung beinhaltet.
+
+# Lizenz
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
+  with this work has waived all copyright and related or neighboring
+  rights to this work.
+</p>
+
+
+
 
 [http://www.schulentwicklung.nrw.de/cms/programmierung-mit-gloop/oop-mit-gloop/programmierung.html](http://www.schulentwicklung.nrw.de/cms/programmierung-mit-gloop/oop-mit-gloop/programmierung.html) [^1]
 
