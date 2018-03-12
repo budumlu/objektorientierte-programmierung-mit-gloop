@@ -1,4 +1,4 @@
-# 4.4 Das Schiebepuzzle II
+# 4.5 Das Schiebepuzzle II
 
 Im [Kapitel 3](/das-schiebepuzzle-teil1.md) haben Sie sich mit einem Schiebepuzzle beschäftigt. Bei diesem Schiebepuzzel konnte man Puzzelteile auf Wegen verschieben, die eigentlich dem Spielprinzip nach eigentlich nicht erlaubt sind.
 

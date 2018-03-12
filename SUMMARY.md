@@ -12,9 +12,10 @@
 * [4. GLOOP-Welten](das-schiebepuzzle-teil2.md)
   * [4.1 Skulpturengarten](skulpturengarten.md)
   * [4.2 Landeplatz](landeplatz.md)
-  * [4.3 Ballspiele](ballspiele.md)
-  * [4.4 Schiebepuzzle II](das-schiebepuzzle-teil2/schiebepuzzle-ii.md)
-  * [4.5 Das UFO-Spiel](das-schiebepuzzle-teil2/das-ufo-spiel.md)
+  * [4.3 Hindernisparcours](43-hindernisparcours.md)
+  * [4.4 Ballspiele](ballspiele.md)
+  * [4.5 Schiebepuzzle II](das-schiebepuzzle-teil2/schiebepuzzle-ii.md)
+  * [4.6 Das UFO-Spiel](das-schiebepuzzle-teil2/das-ufo-spiel.md)
 * [5. MakeyMakey-Projekt](makeymakey-projekt.md)
   * [Spielideen](test.md)
 
