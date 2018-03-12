@@ -1,4 +1,4 @@
-# 1.4 Skulpturengarten
+# 4.1 Skulpturengarten
 
 Nachdem Sie nun bereits ein erstes Schiebpuzzle kreiert haben, sollen Ihre Fähigkeiten bei der Programmierung eines Skulpturengartens trainiert werden.
 

@@ -1,4 +1,4 @@
-# 1.5 Landeplatz
+# 4.2 Landeplatz
 
 Nachdem im Skulpturengarten Objekte rein statisch waren, d.h. ohne sich selbst zu verändern oder die Position im Raum zu wechseln, sollen in diesem Projekt drei weitere Programmiertechniken verwendet werden:
 
