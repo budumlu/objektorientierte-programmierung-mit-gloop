@@ -1,6 +1,7 @@
+# 4.5 Das UFO-Spiel
 ![](/assets/UFO_Skizze.jpg)
 
-## Aufgabe
+## Aufgaben
 
 1. Analysiere den Programm-Code des Ufo-Spiels.
 2. Erläutern Sie, wie die Kollisionsabfrage zwischen dem Ufo und einem Asteroiden realisiert wurde.
