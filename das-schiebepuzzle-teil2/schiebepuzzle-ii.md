@@ -155,3 +155,66 @@ public class Puzzleanwendung
 
 
 
+```java
+import GLOOP.*;
+/**
+ * Beschreiben Sie hier die Klasse Puzzleteil.
+ * 
+ * @author Budumlu 
+ * @version 1.0
+ */
+public class Puzzleteil
+{
+    // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
+    private GLTafel dieTafel;
+     private int i;
+     private int j;
+     private int platz;
+
+
+    public Puzzleteil(int pI, int pJ, int pN)
+    {
+        int i = pI;
+        int j = pJ;
+        this.setzePlatz(pN);
+
+        
+        dieTafel = new GLTafel(i*55,1,j*55,50,50);
+        dieTafel.drehe(270,0,0);
+        dieTafel.setzeText(""+platz,20);
+
+    }
+    public void verschiebe(int x, int y, int z)
+    {
+        dieTafel.verschiebe(x,y,z);
+    }
+
+    
+    public float gibX()
+    {
+        return dieTafel.gibX();   
+    }
+
+    public float gibZ()
+    {
+        return dieTafel.gibZ();   
+    }
+
+    public void setzePlatz(int pPlatz)
+    {
+        this.platz = pPlatz;
+    }
+
+    public int gibPlatz()
+    {
+        return this.platz;
+
+    }
+
+}
+
+```
+
+
+
+
