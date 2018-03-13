@@ -12,12 +12,7 @@ Im zweiten Teil soll nun ein Schiebepuzzel entwickelt werden, bei dem Puzzelteil
 
 ```java
 import GLOOP.*;
-/**
- * Beschreiben Sie hier die Klasse Puzzleanwendung.
- * 
- * @author Budumlu 
- * @version 1.0
- */
+
 public class Puzzleanwendung
 {
     private GLKamera dieKamera;
@@ -59,11 +54,11 @@ public class Puzzleanwendung
 
         while (!dieTastatur.esc()){
             if (dieTastatur.wurdeGedrueckt()){
-/** da das Zeichen nach dem Methodenaufruf gibZeichen() aus dem Speicher gelöscht wird,
-* muss das Zeichen zunächst in einen Puffer geschrieben werden. Dann kann geprüft werden,
-* ob die Tastatureingabe zulässig war. Wird etwas anderes als 1 bis 8 eingegeben und die 
-* folgende IF-Abfrage wird nicht durchgeführt, kann es passieren, dass man einen Array-Fehler
-* bekommt: java.lang.ArrayIndexOutOfBoundsException (Laufzeitfehler)
+/** da das Zeichen nach dem Methodenaufruf gibZeichen() aus dem Speicher gelöscht
+* wird, muss das Zeichen zunächst in einen Puffer geschrieben werden. Dann kann geprüft
+*  werden, ob die Tastatureingabe zulässig war. Wird etwas anderes als 1 bis 8 eingegeben 
+*  und die folgende IF-Abfrage wird nicht durchgeführt, kann es passieren, dass man einen
+* Array-Fehler bekommt: java.lang.ArrayIndexOutOfBoundsException (Laufzeitfehler)
 */
                 int puffer = dieTastatur.gibZeichen();
                 if(48<puffer&&puffer<57){
@@ -154,12 +149,7 @@ public class Puzzleanwendung
 
 ```java
 import GLOOP.*;
-/**
- * Beschreiben Sie hier die Klasse Puzzleteil.
- * 
- * @author Budumlu 
- * @version 1.0
- */
+
 public class Puzzleteil
 {
     private GLTafel dieTafel;
