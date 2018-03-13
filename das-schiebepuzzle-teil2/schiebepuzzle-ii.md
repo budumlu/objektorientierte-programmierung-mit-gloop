@@ -49,9 +49,7 @@ public class Puzzleanwendung
                 n++;
                 if (n==9) break;
             }
-
         }
-
         fuehreAus();
         Sys.beenden();
     }
@@ -144,11 +142,10 @@ public class Puzzleanwendung
         Sys.beenden();
 
     }
-
+    
     public boolean frei(int pN){
         return true;
     }
-
     }
 }
 ```
@@ -165,31 +162,26 @@ import GLOOP.*;
  */
 public class Puzzleteil
 {
-    // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
     private GLTafel dieTafel;
      private int i;
      private int j;
      private int platz;
-
 
     public Puzzleteil(int pI, int pJ, int pN)
     {
         int i = pI;
         int j = pJ;
         this.setzePlatz(pN);
-
-        
         dieTafel = new GLTafel(i*55,1,j*55,50,50);
         dieTafel.drehe(270,0,0);
         dieTafel.setzeText(""+platz,20);
-
     }
+    
     public void verschiebe(int x, int y, int z)
     {
         dieTafel.verschiebe(x,y,z);
     }
 
-    
     public float gibX()
     {
         return dieTafel.gibX();   
@@ -208,9 +200,7 @@ public class Puzzleteil
     public int gibPlatz()
     {
         return this.platz;
-
     }
-
 }
 
 ```
