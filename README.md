@@ -1,6 +1,6 @@
 # 1. Einleitung
 
-Hier **entsteht** ein frei verwendbares digitales Lehrbuch für die 10.Klasse Informatik in NRW. Alle Inhalte, Bilder und Texte sind unter [CCO-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/deed.de) gestellt. Es ist zu beachten, dass verlinkte Inhalte unter andere Lizenzen gestellt sein können.
+Hier **entsteht** ein frei verwendbares digitales Lehrbuch für die 10.Klasse Informatik in NRW. Alle Inhalte, Bilder und Texte sind unter [CC-BY-SA-Lizenz](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de) gestellt. Es ist zu beachten, dass verlinkte Inhalte unter andere Lizenzen gestellt sein können.
 
 Die in diesem Lehrbuch verwendete Java-Bibliothek GLOOP[^1] ist für nicht kommerzielle Zwecke kostenlos verwendbar.
 
@@ -11,18 +11,8 @@ Der erste Teil dieses Buchs führt durch einen GLOOP-Lehrgang. Dieser Teil soll 
 Der zweite Teil ist als eine Art Nachschlagewerk gedacht, der grundlegende Methoden und Konzepte der JAVA-Programmierung beinhaltet.
 
 # Lizenz
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
 
-<p xmlns:dct="http://purl.org/dc/terms/">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
-  with this work has waived all copyright and related or neighboring
-  rights to this work.
-</p>
 
 
 
