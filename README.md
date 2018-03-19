@@ -11,7 +11,9 @@ Der erste Teil dieses Buchs führt durch einen GLOOP-Lehrgang. Dieser Teil soll 
 Der zweite Teil ist als eine Art Nachschlagewerk gedacht, der grundlegende Methoden und Konzepte der JAVA-Programmierung beinhaltet.
 
 # Lizenz
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Es ist zu beachten, dass verlinkte und eingebettete Inhalte sowie Bilder unter andere Lizenzen gestellt sein können.
+
+
 
 
 
